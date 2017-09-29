@@ -1,0 +1,14 @@
+{
+	"name": "cssaweb",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/uw-cssa/uw-cssa.github.io.git"
+	},
+	"license": "AGPL-3.0+",
+	"bugs": {
+		"url": "https://github.com/uw-cssa/uw-cssa.github.io/issues"
+	},
+	"homepage": "https://github.com/uw-cssa/uw-cssa.github.io#readme",
+    "private": true
+}

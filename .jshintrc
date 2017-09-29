@@ -1,0 +1,19 @@
+{ "esnext": 6
+, "node": true
+, "predef": [ "-Promise" ]
+, "laxcomma": true
+, "laxbreak": true
+, "multistr": true
+, "eqeqeq": true
+, "eqnull": false
+, "curly": false
+, "expr": true
+, "devel": true
+, "debug": true
+, "funcscope": true
+, "unused": "strict"
+, "bitwise": true
+, "varstmt": true
+, "-W002": false
+, "-W004": false
+}
